@@ -37,7 +37,7 @@ public class WebstaurantTests {
         searchButton.click();
         
 
-     // Initialize variables to keep track of the current page number and URL
+        // Initialize variables to keep track of the current page number and URL
         int currentPageNumber = 1;
         String currentUrl = driver.getCurrentUrl();
 
